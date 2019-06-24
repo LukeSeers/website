@@ -1,3 +1,15 @@
+# 1.2.0 (2019-06-24)
+
+### Added
+- Hiring section
+
+### Changed
+- Latest articles on homepage now shows 8
+
+### Removed
+- Hottest section on the homepage
+
+
 # 1.1.2 (2019-06-19)
 
 ### Added
