@@ -8,7 +8,8 @@ We are a small team of people working towards the greater good; built up around 
 You can help by spreading the word about our site and or create a issues ticket or email us thelatestprivacy@protonmail.com, if you've found a bug or you have any cool ideas. We are all eyes and ears. 
 
 ### Open Positions
-Will be available soon!
+Find out more detials about these postions by clicking the one your intrested in.
+* [Front-end Developer](https://latestprivacy.com/jobs/frontend-developer)
 
 ### Updates
 1. [Changelog](https://github.com/LatestPrivacy/Website/blob/master/CHANGELOG.md)
