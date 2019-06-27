@@ -1,3 +1,15 @@
+# 1.3.1 (2019-06-27)
+
+### Fixed
+- Notice overflow on smaller devices
+
+
+# 1.3.0 (2019-06-24)
+
+### Added
+- Split articles into publish and link type
+
+
 # 1.2.0 (2019-06-24)
 
 ### Added
