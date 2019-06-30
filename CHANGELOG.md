@@ -1,7 +1,21 @@
+# 1.3.3 (2019-06-30)
+
+### Added
+- New error pages for: 403, 404, 500 and generic error
+
+
+# 1.3.2 (2019-06-30)
+
+### Added
+- Asset versioning
+
+
 # 1.3.1 (2019-06-27)
 
 ### Fixed
 - Notice overflow on smaller devices
+- Explore now button clipping on smaller devices
+- Article width on smaller devices
 
 
 # 1.3.0 (2019-06-24)
