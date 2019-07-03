@@ -1,3 +1,9 @@
+# 1.3.4 (2019-07-01)
+
+### Added
+- Add maintenance mode drop down
+
+
 # 1.3.3 (2019-06-30)
 
 ### Added
