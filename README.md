@@ -9,3 +9,10 @@ You can help by spreading the word about our site and or create a issues ticket 
 
 ### Updates
 1. [Changelog](https://github.com/LatestPrivacy/Website/blob/master/CHANGELOG.md)
+
+### Donators
+
+If you like what we are doing, please support this project by donating. Thank you! [Donate](https://opencollective.com/latestprivacy)
+
+<a href="https://opencollective.com/latestprivacy" target="_blank"><img src="https://opencollective.com/latestprivacy/tiers/donation.svg?avatarHeight=36&width=600"></a>
+
