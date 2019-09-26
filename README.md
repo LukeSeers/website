@@ -16,3 +16,8 @@ If you like what we are doing, please support this project by donating. Thank yo
 
 <a href="https://opencollective.com/latestprivacy" target="_blank"><img src="https://opencollective.com/latestprivacy/tiers/donation.svg?avatarHeight=36&width=600"></a>
 
+## Sponsors
+
+[![Browserstack](https://latestprivacy.org/images/browserstack.svg)](http://www.browserstack.com/)
+
+Browserstack has allowed us to test and develop our website under many different devices. We can now develop Latest Privacy knowing that everything on our website will be truly responsive.
